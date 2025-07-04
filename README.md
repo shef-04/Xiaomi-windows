@@ -4,6 +4,10 @@ XiaomiのPoco F6 Pro をwindowsにつなげてスマホ画面と音声をPCへ�
 ```bash
 cd C:\Android\scrcpy-win64-v3.3.1
 ```
+いつも使うやつ
+```bash
+scrcpy -b 16M --max-fps 60 --audio-dup --max-size 1080
+```
 
 | やりたいこと          | 代表コマンド                                                   |
 | --------------- | -------------------------------------------------------- |
