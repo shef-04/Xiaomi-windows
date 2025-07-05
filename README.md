@@ -6,7 +6,7 @@ cd C:\Android\scrcpy-win64-v3.3.1
 ```
 いつも使うやつ
 ```bash
-scrcpy -b 16M --max-fps 60 --audio-dup --max-size 1080
+scrcpy -b 16M --max-fps 60 --audio-dup --max-size 1080　-d
 ```
 
 | やりたいこと          | 代表コマンド                                                   |
