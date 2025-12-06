@@ -2,7 +2,7 @@
 XiaomiのPoco F6 Pro をwindowsにつなげてスマホ画面と音声をPCへキャプチャ出力
 
 ```bash
-cd C:\Android\scrcpy-win64-v3.3.1
+cd C:\Android\scrcpy-win64-v3.3.3
 ```
 いつも使うやつ
 ```bash
