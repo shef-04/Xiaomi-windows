@@ -6,7 +6,7 @@ cd C:\Android\scrcpy-win64-v3.3.3
 ```
 いつも使うやつ
 ```bash
-.\scrcpy -b 16M --max-fps 90 --audio-dup --max-size 1080 -d
+.\scrcpy -b 16M --max-fps 120 --audio-dup --max-size 1080 -d
 ```
 
 # scrcpy チートシート（v3.3.x / 高画質ゲーム寄りに改訂）
